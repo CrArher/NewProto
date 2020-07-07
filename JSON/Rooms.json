@@ -1,0 +1,27 @@
+﻿{
+  "Rooms" : {
+    "Room1": {
+      "MobsCount": 1,
+      "MobsType": {
+        "Mob1": 1,
+        "Mob2": 0,
+        "Mob3": 0,
+        "Mob4": 0,
+        "Mob5": 0
+      },
+      "Location(level)": 1,
+      "XCords": 1,
+      "YCords": 1,
+      "Doors": {
+        "Door1": 1,
+        "Door2": 0,
+        "Door3": 0,
+        "Door4": 0,
+        "Door5": 0,
+        "Door6": 0,
+        "Door7": 0,
+        "Door8": 0
+      }
+    }
+  }
+}

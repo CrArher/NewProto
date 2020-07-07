@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vlad\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vlad\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_NewProto.51040670.00" t="ExcludeRecursive" />
+    <e p="C:\Users\vlad\RiderProjects\NewProto" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="AbstractModels" t="Include">
+        <e p="BossRoom.cs" t="Include" />
+        <e p="Door.cs" t="Include" />
+        <e p="Map.cs" t="Include" />
+        <e p="Mob.cs" t="Include" />
+        <e p="Room.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="IContext.cs" t="Include" />
+      <e p="IHero.cs" t="Include" />
+      <e p="IWorld.cs" t="Include" />
+      <e p="JSON" t="Include">
+        <e p="Rooms.json" t="Include" />
+      </e>
+      <e p="NewProto.csproj" t="IncludeRecursive" />
+      <e p="NewProto.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="NewProto.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="StartGame.cs" t="Include" />
+    </e>
+  </component>
+</project>
